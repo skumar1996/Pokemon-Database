@@ -1,0 +1,58 @@
+
+html {
+	background: "http://cdn.wallpapersafari.com/55/44/tvlMso.jpg" fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+
+}
+
+div {
+	height: 200px;
+	width: 400px;
+	font-family: Arial;
+	position: fixed;
+	top:50%;
+	left:50%;
+	margin-top: -100px;
+	margin-left: 10%;
+	font-size: 20px;
+}
+
+div1 {
+	height: 200px;
+	width: 400px;
+	font-family: Arial;
+	position: fixed;
+	top:40%;
+	left:50%;
+	margin-top: -100px;
+	margin-left: 10%;
+}
+
+div2 {
+	height: 200px;
+	width: 400px;
+	font-family: Arial;
+	position: fixed;
+	top:50%;
+	left:50%;
+	margin-top: -100px;
+	margin-left: 10%;
+	font-size: 20px;
+}
+
+p {
+	font-family: Impact;
+	font-size: 160%;
+}
+p1 {
+	font-family: Arial;
+}
+
+a:link {
+	color: red;
+}
+a:visited {
+	color: red;
+}
